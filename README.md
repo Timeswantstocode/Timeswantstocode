@@ -1,66 +1,76 @@
 <div align="center">
-  <!-- HIGH-CONTRAST WAVE HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FACC15,EAB308,000000&height=220&text=Times_&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20Architect%20%7C%20Automator&descAlignY=55&descSize=20" width="100%"/>
+  <!-- THE ARCHITECT HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FACC15,EAB308,000000&height=240&text=Times_&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=SYSTEM%20ARCHITECT%20%7C%20NOT%20A%20VIBE%20CODER&descAlignY=55&descSize=18" width="100%"/>
 
   <br/>
 
-  <!-- CENTERPIECE GIF -->
-  <img src="https://media1.tenor.com/m/X9Z9N4oM9mMAAAAd/solo-leveling-sung-jin-woo.gif" width="450px" style="border-radius: 15px; border: 3px solid #FACC15; box-shadow: 0 0 20px rgba(250, 204, 21, 0.3);"/>
+  <!-- SYSTEM AURA GIF -->
+  <img src="https://media1.tenor.com/m/X9Z9N4oM9mMAAAAd/solo-leveling-sung-jin-woo.gif" width="400px" style="border-radius: 10px; border: 2px solid #FACC15;"/>
 
   <br/>
   <br/>
 
-  <!-- TERMINAL TEXT -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=FACC15&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=50&lines=Systems+Architect+Detected.;Automating+Digital+Ecosystems." alt="Typing SVG" />
+  <!-- TERMINAL TYPING -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=800&color=FACC15&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Accessing+Architect+Core...;Orchestrating+Logic+Systems." alt="Typing SVG" />
 
   <br/>
 
-  <!-- CLEAN STATUS SECTION (No Tables) -->
+  <!-- SYSTEM SPECS (Minimalist) -->
   <p align="center">
-    <font size="4" color="#FACC15"><b>🛰️ DEPLOYMENT LOG</b></font><br/>
-    <font color="#ffffff"><b>FAMZone:</b> Media Backbone & HLS Logic</font><br/>
-    <font color="#ffffff"><b>GoldView:</b> Real-time Scraper Pipelines</font><br/>
-    <font color="#ffffff"><b>Discord:</b> <code>times_00</code></font><br/>
-    <font color="#a1a1aa"><i>"Logic over Syntax. If it's manual, it's broken."</i></font>
+    <font color="#FACC15"><b>[ 🔭 CURRENT_OP ]</b></font> Refactoring <a href="https://github.com/Timeswantstocode/famzone">FAMZone</a> HLS pipelines.<br/>
+    <font color="#FACC15"><b>[ 🌱 LEARNING ]</b></font> Advanced navigation and "sailing the high seas" 🏴‍☠️<br/>
+    <font color="#FACC15"><b>[ ⚡ FACT ]</b></font> Architects don't think — we calculate. 🤖
   </p>
 
   <br/>
 
-  <!-- TECH STACK -->
+  <!-- TECH STACK (Skills) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,py,vercel,githubactions,figma,postman,ps,html,css,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,py,nodejs,ts,js,vercel,githubactions,figma,postman,ps&theme=dark" />
   </a>
 
   <br/>
   <br/>
   <br/>
 
-  <!-- ENHANCED STATS: FORCING PRIVATE DATA & CLEAN LOOK -->
+  <!-- FLAGSHIP ARCHITECTURES -->
+  <p align="center">
+    <a href="https://github.com/Timeswantstocode/famzone">
+      <img src="https://img.shields.io/badge/FAMZone-Architecture_Showcase-FACC15?style=for-the-badge&logo=nextdotjs&logoColor=black" />
+    </a>
+    &nbsp;
+    <a href="https://www.goldview.tech/">
+      <img src="https://img.shields.io/badge/GoldView-Live_Pipeline-FACC15?style=for-the-badge&logo=python&logoColor=black" />
+    </a>
+  </p>
+
+  <br/>
+  <br/>
+
+  <!-- STATS: FORCING PRIVATE DATA + YELLOW THEME -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Timeswantstocode&show_icons=true&theme=transparent&title_color=facc15&icon_color=facc15&text_color=ffffff&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" width="480px" />
+    <!-- MAIN STATS (Includes Private) -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Timeswantstocode&show_icons=true&theme=transparent&title_color=facc15&icon_color=facc15&text_color=ffffff&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" width="450px" />
     
     <br/>
 
-    <!-- TOP LANGUAGES: COMPACT & PRIVATE INCLUDED -->
+    <!-- TOP LANGUAGES (Includes Private, Hides Design languages to show Logic) -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timeswantstocode&layout=compact&theme=transparent&title_color=facc15&text_color=ffffff&hide_border=true&langs_count=8&count_private=true&include_all_commits=true&hide=html,css" width="400px" />
+
+    <br/>
+
+    <!-- STREAK -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timeswantstocode&theme=dark&color=facc15&fire=facc15&hide_border=true&background=00000000" width="400px" />
   </div>
 
   <br/>
   <br/>
 
-  <!-- ARCHITECTURE BUTTONS -->
-  <a href="https://github.com/Timeswantstocode/famzone">
-    <img src="https://img.shields.io/badge/FAMZone-Architecture_Showcase-FACC15?style=for-the-badge&logo=nextdotjs&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.goldview.tech/">
-    <img src="https://img.shields.io/badge/GoldView-Live_Pipeline-FACC15?style=for-the-badge&logo=python&logoColor=black" />
-  </a>
-
-  <br/>
-  <br/>
-  <br/>
-
   <!-- FOOTER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,FACC15,EAB308&height=120&section=footer" width="100%"/>
+  <div align="center">
+    <p>
+      <b>Discord:</b> <code>times_00</code> &nbsp; | &nbsp; <b>Passion:</b> Seinen & Tactical Football
+    </p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,FACC15,EAB308&height=120&section=footer" width="100%"/>
+  </div>
 </div>
