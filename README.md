@@ -1,41 +1,45 @@
 <div align="center">
 
-<!-- HEADER: Premium Cyber-Yellow Waving Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=facc15,eab308,000000&height=250&section=header&text=Times_&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Product%20Architect%20%7C%20Full-Stack%20Automator&descAlignY=55&descSize=22" width="100%" />
-
-<!-- TYPING ANIMATION: General Tech & Interests -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=600&height=50&lines=Architecting+Modern+Web+Ecosystems;Python+Automation+%26+Data+Pipelines;Next.js+14+%26+Real-time+Systems;Anime+Fan+%C2%B7+Football+Buff+%C2%B7+Tech+Geek" alt="Typing SVG" />
-</a>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=facc15,eab308,000000&height=250&section=header&text=Times_&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Architecting%20Automated%20Ecosystems&descAlignY=55&descSize=22" width="100%" />
 
 <br />
 
-<!-- DYNAMIC STATS: Yellow Theme -->
+<!-- HUD STYLE MISSION LOG -->
+<table border="0">
+  <tr>
+    <td width="50%">
+      <div align="left">
+        <b>🛰️ STATUS REPORT</b><br/>
+        • <b>Deploying:</b> <a href="https://github.com/Timeswantstocode/famzone">FAMZone</a> logic & PWA edge cases.<br/>
+        • <b>Infiltrating:</b> Advanced Gemini 3.1 Flash orchestration.<br/>
+        • <b>Stacking:</b> Real-time Postgres listeners & HLS pipelines.<br/>
+        • <b>Vibe:</b> Logic over syntax. If it's manual, it's broken.
+      </div>
+    </td>
+    <td width="50%">
+      <div align="left">
+        <b>💬 COMMS UNIT</b><br/>
+        • <b>Discord:</b> <code>times_00</code><br/>
+        • <b>Specialty:</b> Next.js, Python scrapers, UI/UX systems.<br/>
+        • <b>Debate me:</b> Why <i>Blue Lock</i> is peak or why 4-2-3-1 is the meta.<br/>
+        • <b>Logic:</b> Spending 5 hours to automate 5 minutes of work.
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- DYNAMIC STATS (Ensure "Private Contributions" is enabled in GH settings) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Timeswantstocode&show_icons=true&theme=transparent&title_color=facc15&icon_color=facc15&text_color=ffffff&bg_color=000000&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Timeswantstocode&show_icons=true&theme=transparent&title_color=facc15&icon_color=facc15&text_color=ffffff&bg_color=000000&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timeswantstocode&theme=transparent&fire=facc15&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=facc15&stroke=facc15&hide_border=true&background=000000" height="150" />
 </p>
 
 ---
 
-### 🔭 Mission Log
-
-<div align="left">
-
-- 🔭 **I’m currently working on** ... Scalable media architectures and expanding my [Digital Lab](https://github.com/Timeswantstocode).
-- 🌱 **I’m currently learning** ... Advanced LLM orchestration (Gemini/GPT-4o) and Edge computing.
-- 👯 **I’m looking to collaborate on** ... High-performance data scrapers and open-source automation tools.
-- 🤔 **I’m looking for help with** ... Exploring new distributed database patterns for real-time apps.
-- 💬 **Ask me about** ... **Next.js**, **Python Scrapers**, **UI/UX design**, or why **Seinen anime** is top-tier.
-- 📫 **How to reach me** ... Slide into my Discord: **times_00** 
-- ⚡ **Fun fact** ... If I have to do a task manually more than twice, it gets a Python script. 🦾
-
-</div>
-
----
-
-### ⚡ The Technical Arsenal
-<!-- Modern Skill Icons -->
+### ⚡ Technical Loadout
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,py,vercel,githubactions,figma,postman,ps,html,css,js&theme=dark" />
@@ -44,77 +48,61 @@
 
 ---
 
-### 🚀 Flagship Architectures
-*Selected work from my development lab.*
+### 🛠️ Core Architectures
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚽ FAMZone</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Concept-Architecture-FACC15?style=for-the-badge&logo=next.js&logoColor=black" />
-      </p>
-      <p>A <b>Universal Media Backbone</b> concept. Designed to unify Live Football, Movies, and Anime. Focuses on HLS streaming pipelines, AI-driven content summaries, and real-time data sync via Supabase.</p>
-      <p align="center">
-        <a href="https://github.com/Timeswantstocode/famzone"><b>View README Showcase →</b></a>
-      </p>
+      <h3 align="center">🏟️ FAMZone</h3>
+      <p align="center"><i>The Universal Media Backbone</i></p>
+      <p><b>Hard Tech:</b> Multi-source HLS.js streaming, Supabase Real-time database sync, and Gemini 3.1 Flash Lite for automated media summarization. Built to unify live sports, cinema, and anime into a single low-latency PWA.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Architecture-Private_Source-facc15?style=flat-square" />
+      </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📈 GoldView Nepal</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live-FACC15?style=for-the-badge&logo=react&logoColor=black" />
-      </p>
-      <p>A high-precision market tracking system. Engineered with <b>automated Python scrapers</b> to cross-verify government data. Features an instant-load PWA experience and native push alerts.</p>
-      <p align="center">
-        <a href="https://www.goldview.tech/"><b>Experience the App →</b></a>
-      </p>
+      <p align="center"><i>The Scraping Pipeline</i></p>
+      <p><b>Hard Tech:</b> Automated BeautifulSoup4 scrapers cross-verifying FENEGOSIDA and NRB data. Orchestrated via GitHub Actions with a Vercel Blob persistence layer. Native Web Push integration for sub-second price alerts.</p>
+      <div align="center">
+        <a href="https://www.goldview.tech/"><img src="https://img.shields.io/badge/Live_App-Visit-facc15?style=flat-square" /></a>
+      </div>
     </td>
   </tr>
 </table>
 
 <br />
 
-### 🎮 The Interests Hub
-*When I drop the keyboard, I'm deep into these worlds:*
+### 🌊 Passion HUD
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/ios-filled/50/facc15/dragon-ball.png"/><br/>
-      <b>Anime & Manga</b><br/>
-      <font size="2">Appreciating top-tier animation and deep storylines.</font>
+      <img src="https://img.icons8.com/ios-filled/50/facc15/one-piece.png"/><br/>
+      <b>Otaku</b><br/>
+      <font size="2">Appreciating Seinen complexity & Shonen hype.</font>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/ios-filled/50/facc15/football.png"/><br/>
-      <b>Football Tactic</b><br/>
-      <font size="2">Passionate about the "Beautiful Game" and live stats.</font>
+      <img src="https://img.icons8.com/ios-filled/50/facc15/football-ball.png"/><br/>
+      <b>Gaffer</b><br/>
+      <font size="2">Tactics, live data, and the beautiful game.</font>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/ios-filled/50/facc15/processor.png"/><br/>
-      <b>The Tech Cutting Edge</b><br/>
-      <font size="2">Always hunting for the next big shift in AI and Web Dev.</font>
+      <img src="https://img.icons8.com/ios-filled/50/facc15/artificial-intelligence.png"/><br/>
+      <b>Automator</b><br/>
+      <font size="2">Making machines do the boring stuff.</font>
     </td>
   </tr>
 </table>
 
-<br />
-
-### 🤝 Let's Link Up
-<p align="center">
-<a href="https://discord.com/users/times_00">
-  <img src="https://img.shields.io/badge/Discord-times__00-facc15?style=for-the-badge&logo=discord&logoColor=black" />
-</a>
-</p>
-
 ---
 
-<!-- Top Languages: Wide Chart -->
+<!-- Top Languages including private data -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timeswantstocode&layout=compact&theme=transparent&title_color=facc15&text_color=ffffff&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timeswantstocode&layout=compact&theme=transparent&title_color=facc15&text_color=ffffff&hide_border=true&langs_count=6&count_private=true" height="150" />
 </p>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,facc15,eab308&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
-
