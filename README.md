@@ -1,76 +1,27 @@
-<div align="center">
-  <!-- THE ARCHITECT HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FACC15,EAB308,000000&height=240&text=Times_&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=SYSTEM%20ARCHITECT%20%7C%20NOT%20A%20VIBE%20CODER&descAlignY=55&descSize=18" width="100%"/>
+# Hi 👋, I'm Times_
 
-  <br/>
+### A System Archiiiiitect NOT A VIBE CODER!!!
 
-  <!-- SYSTEM AURA GIF -->
-  <img src="https://media1.tenor.com/m/X9Z9N4oM9mMAAAAd/solo-leveling-sung-jin-woo.gif" width="400px" style="border-radius: 10px; border: 2px solid #FACC15;"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Timeswantstocode&label=Profile views&color=0e75b6&style=flat" alt="Timeswantstocode" /> </p>
 
-  <br/>
-  <br/>
+- 🔭 I'm currently working on **Nothing Actually**
 
-  <!-- TERMINAL TYPING -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=800&color=FACC15&background=00000000&center=true&vCenter=true&multiline=true&width=550&height=60&lines=Accessing+Architect+Core...;Orchestrating+Logic+Systems." alt="Typing SVG" />
+- 🌱 I'm currently learning **How to sail the seas**
 
-  <br/>
+- ⚡ Fun fact **I dont think,I'm a system architect remember. **
 
-  <!-- SYSTEM SPECS (Minimalist) -->
-  <p align="center">
-    <font color="#FACC15"><b>[ 🔭 CURRENT_OP ]</b></font> Refactoring <a href="https://github.com/Timeswantstocode/famzone">FAMZone</a> HLS pipelines.<br/>
-    <font color="#FACC15"><b>[ 🌱 LEARNING ]</b></font> Advanced navigation and "sailing the high seas" 🏴‍☠️<br/>
-    <font color="#FACC15"><b>[ ⚡ FACT ]</b></font> Architects don't think — we calculate. 🤖
-  </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Timeswantstocode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Timeswantstocode" height="30" width="40" /></a>
+</p>
 
-  <br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-  <!-- TECH STACK (Skills) -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,py,nodejs,ts,js,vercel,githubactions,figma,postman,ps&theme=dark" />
-  </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Timeswantstocode&show_icons=true&locale=en&layout=compact" alt="Timeswantstocode" /></p>
 
-  <br/>
-  <br/>
-  <br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Timeswantstocode&show_icons=true&locale=en" alt="Timeswantstocode" /></p>
 
-  <!-- FLAGSHIP ARCHITECTURES -->
-  <p align="center">
-    <a href="https://github.com/Timeswantstocode/famzone">
-      <img src="https://img.shields.io/badge/FAMZone-Architecture_Showcase-FACC15?style=for-the-badge&logo=nextdotjs&logoColor=black" />
-    </a>
-    &nbsp;
-    <a href="https://www.goldview.tech/">
-      <img src="https://img.shields.io/badge/GoldView-Live_Pipeline-FACC15?style=for-the-badge&logo=python&logoColor=black" />
-    </a>
-  </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Timeswantstocode&" alt="Timeswantstocode" /></p>
 
-  <br/>
-  <br/>
 
-  <!-- STATS: FORCING PRIVATE DATA + YELLOW THEME -->
-  <div align="center">
-    <!-- MAIN STATS (Includes Private) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Timeswantstocode&show_icons=true&theme=transparent&title_color=facc15&icon_color=facc15&text_color=ffffff&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" width="450px" />
-    
-    <br/>
-
-    <!-- TOP LANGUAGES (Includes Private, Hides Design languages to show Logic) -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timeswantstocode&layout=compact&theme=transparent&title_color=facc15&text_color=ffffff&hide_border=true&langs_count=8&count_private=true&include_all_commits=true&hide=html,css" width="400px" />
-
-    <br/>
-
-    <!-- STREAK -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timeswantstocode&theme=dark&color=facc15&fire=facc15&hide_border=true&background=00000000" width="400px" />
-  </div>
-
-  <br/>
-  <br/>
-
-  <!-- FOOTER -->
-  <div align="center">
-    <p>
-      <b>Discord:</b> <code>times_00</code> &nbsp; | &nbsp; <b>Passion:</b> Seinen & Tactical Football
-    </p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,FACC15,EAB308&height=120&section=footer" width="100%"/>
-  </div>
-</div>
