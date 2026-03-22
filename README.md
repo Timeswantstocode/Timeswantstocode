@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Times_
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DF1E&width=600&lines=A+System+Archiiiiitect;NOT+A+VIBE+CODER!!!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DF1E&width=600&lines=Loading..........;Syncing............" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Timeswantstocode&label=Profile%20views&color=F7DF1E&style=flat-square" alt="Timeswantstocode" />
