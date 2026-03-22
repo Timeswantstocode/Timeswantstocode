@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=100&section=header" width="100%"/>
 
-# Hi 👋, I'm Times_
+# Hi 👋, I'm Times
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7DF1E&width=600&lines=Loading..........;Syncing............" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=0&color=F7DF1E&width=600&center=true&lines=Loading..........;Syncing............" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Timeswantstocode&label=Profile%20views&color=F7DF1E&style=flat-square" alt="Timeswantstocode" />
