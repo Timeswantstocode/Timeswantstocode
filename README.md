@@ -18,7 +18,7 @@
 
 - 🔭 I'm currently working on **Nothing Actually**
 - 🌱 I'm currently learning **How to sail the seas**
-- ⚡ Fun fact **I dont think,I'm a system architect remember.**
+- ⚡ Fun fact **Manual Coding is dead**
 
 </div>
 
